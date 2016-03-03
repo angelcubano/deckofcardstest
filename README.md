@@ -1,7 +1,7 @@
 Java Deck of Cards TEST
 ===============================
 This project is a Java Library for Deck of Cards. The goal of the library is provide a the principal funtionalities of deck of cards.
-In this project you can see and excecute Test for the functionalities of the library using JUnit.
+In this project you can see and excecute Test all the functionalities of the library using JUnit.
 
 
 ## Technologies used
